@@ -16,6 +16,7 @@ After normal `git clone`:
 python3 -m venv env
 source env/bin/activate
 pip install -r wordcloud_requirements.txt
+spacy download en
 ```
 
 
